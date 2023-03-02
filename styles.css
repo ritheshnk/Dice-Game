@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color:#6C00FF;
+    color: aliceblue;
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+}
+
+h1{
+    font-size: 7rem;
+    font-family: 'Lobster',cursive;
+}
+
+p{
+    font-size: 3rem;
+    font-family: 'Verdana',cursive;
+}
+
+img {
+    width: 80%;
+  }
+
+
+.dice{
+    display: inline-block;
+    margin: 50px 50px;
+}
+
+.foot{
+    margin: 50px auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
